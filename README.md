@@ -2,7 +2,6 @@
 
 ![License](https://img.shields.io/badge/license-BSD-blue.svg)
 [![Build Status](https://travis-ci.org/Rolinh/errbag.png?branch=master)](https://travis-ci.org/Rolinh/errbag)
-[![Coverage Status](https://coveralls.io/repos/Rolinh/errbag/badge.svg)](https://coveralls.io/r/Rolinh/errbag)
 [![GoDoc](http://godoc.org/github.com/Rolinh/errbag?status.svg)](http://godoc.org/github.com/Rolinh/errbag)
 [![GoWalker](http://img.shields.io/badge/doc-gowalker-blue.svg?style=flat)](https://gowalker.org/github.com/Rolinh/errbag)
 
