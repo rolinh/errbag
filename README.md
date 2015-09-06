@@ -1,4 +1,4 @@
-# errbag - An error rate based throttler for Go
+# errbag - An error throttler for Go
 
 ![License](https://img.shields.io/badge/license-BSD-blue.svg)
 [![Build Status](https://travis-ci.org/Rolinh/errbag.png?branch=master)](https://travis-ci.org/Rolinh/errbag)
@@ -7,6 +7,9 @@
 
 Is your Go (golang) application running for long period of times or as a daemon?
 If the answer is yes, chances are that you might find `errbag` useful.
+
+`Errbag` is a Go package that allows Go programs to pause for a predefined
+amount of time when too many errors happen.
 
 Errors are usually unavoidable for programs or applications which are supposed
 to run continuously for long period of times. In these case, errors are dealt
