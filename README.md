@@ -3,7 +3,6 @@
 ![License](https://img.shields.io/badge/license-BSD-blue.svg)
 [![Build Status](https://travis-ci.org/Rolinh/errbag.png?branch=master)](https://travis-ci.org/Rolinh/errbag)
 [![GoDoc](http://godoc.org/github.com/Rolinh/errbag?status.svg)](http://godoc.org/github.com/Rolinh/errbag)
-[![GoWalker](http://img.shields.io/badge/doc-gowalker-blue.svg?style=flat)](https://gowalker.org/github.com/Rolinh/errbag)
 
 Is your Go (golang) application running for long period of times or as a daemon?
 If the answer is yes, chances are that you might find `errbag` useful.
