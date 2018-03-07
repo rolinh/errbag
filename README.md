@@ -1,6 +1,5 @@
 # errbag - An error throttler for Go
 
-![License](https://img.shields.io/badge/license-BSD-blue.svg)
 [![Build Status](https://travis-ci.org/Rolinh/errbag.png?branch=master)](https://travis-ci.org/Rolinh/errbag)
 [![GoDoc](http://godoc.org/github.com/Rolinh/errbag?status.svg)](http://godoc.org/github.com/Rolinh/errbag)
 
